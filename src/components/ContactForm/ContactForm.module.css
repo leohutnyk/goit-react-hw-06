@@ -10,7 +10,7 @@
   text-align: left;
 
   padding: 12px;
-  border: none;
+  border: 1px solid #959595;
   border-radius: 8px;
   background-color: #ffffff;
   box-shadow: inset 6px 6px 12px #b8b8b8, inset -6px -6px 12px #ffffff;
@@ -28,7 +28,7 @@
   height: 40px;
   margin-left: auto;
   margin-right: auto;
-  border: 0;
+  border: 1px solid #959595;
   border-radius: 4px;
   cursor: pointer;
   transition: box-shadow 250ms linear, transform 250ms linear;
